@@ -1,0 +1,3 @@
+This music was composed using FL Studio 7.0 XXL v7.0.0.
+
+A software VST called PlastiCZ (version 1.0) was used.
