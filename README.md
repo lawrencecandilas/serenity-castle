@@ -5,7 +5,7 @@ It's 2020.  Hell yes, I still play DOOM, though these days it's always a GZDoom 
 
 Thanks for checking out this WAD.  
 
-![Title Screen Image](https://github.com/lawrencecandilas/serenity-castle/blob/master/Assets/Serenity%20Castle%20-%20Titlepic.pcx)
+![Title Screen Image](https://github.com/lawrencecandilas/serenity-castle/blob/master/Assets/Screenshots/Screenshot_Doom_20200127_215043.png?raw=true)
 
 ## The journey
 
