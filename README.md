@@ -13,7 +13,7 @@ I have been a fan of DOOM since the original in the early 90's.  I was too poor 
 
 In the early 2000's I somehow got a program called WADED, and experimented with creating WADs, using the original DOOM.EXE and DOOM2.EXE to test.  I still have those couple WADs somewhere and I ought to find them and complete them sometime.  
 
-But years later, I discovered DOOM source ports, then the wonderful ZDoom and GZDoom, and then very wonderful Brutal Doom mod.
+But years later, I discovered DOOM source ports, then the wonderful ZDoom and GZDoom, and then the very wonderful Brutal Doom mod.
 
 I've known about Doom Builder for a while, and a few months ago, decided to install Doom Builder 2 again, learn how it works and actually complete something in my life.
 
@@ -26,12 +26,15 @@ So to reclaim my mental health, I started this WAD with a huge square, one corne
 Therefore ... this WAD is very large.  Very large might be an understatment--it's huge!  
 
 Sorry, I went a little overboard with decorating the interior of the castle, and also with the rocky mountains.  
-Overall, this map is designed to be fun and shouldn't torture the player too much with impossible battles, or aesthetic challenges.  
-There's a lot of enemies in this map and you will be assaulted from ALL SIDES at various places in the map; but at a comfortable pace.  Ammunition is plentiful and everywhere if you look for it.
+Overall, this map is designed to be fun and shouldn't torture the player too much with impossible battles, or aesthetic challenges. 
+ 
+There's a lot of enemies in this map and you will run into horde after horde of enemies at various places in the map; ultimately at a comfortable pace.  
 
-I tried really hard to not make it boring.  It's oriented towards action - while your path through the castle will not be straightforward, things aren't too puzzling.  
+Ammunition is plentiful and everywhere if you look for it.
 
-You may need to figure out a switch or two, and two switches in the map will appear to do nothing immediately but will definitely help you later.  So press every switch you find.
+I tried really hard to not make it boring.  It's oriented towards action - while your path through the castle will not be straightforward, hopefully things aren't too puzzling.  You will need to figure out a switch or two, and two switches in the map will appear to do nothing at the moment but will definitely help you later.  
+
+So press every switch you find.
 
 ## Requirements
 
@@ -39,9 +42,9 @@ This WAD was developed on an old PC (AMD Athlon dual-core with 6GB of RAM).
 
 It was tested on GZDoom 1.8.1 during development and works well on the above system; it does not load or run in any DOS version (at least not DOOM2.EXE, DOOM2P.EXE or BOOM).
 
-It was designed with the Brtual Doom mod in mind, but it's not required.  It runs slowly on the above development system, but on a modern system you shouldn't have any problems.
+It was designed with the Brtual Doom mod in mind, but it's not required.  With Brutal Doom v19 enabled, it runs slowly on the above development system, and gets unplayable in parts, but on a modern system you shouldn't have any problems.
 
-You will want to enable freelook; you can enable if you want, it will not help you very much.
+You will want to enable freelook because verticality is definitely a factor in this map.  You can enable/use jumping/crouching if you want but it will not help you very much.
 
 ## Hints
 
